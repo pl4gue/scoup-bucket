@@ -1,0 +1,12 @@
+{
+    "bin": "Crowbar.exe",
+    "checkver": "github",
+    "description": "Crowbar tool - for Source engine compilation/decompilation",
+    "license": "Freeware",
+    "notes": [
+        "Check the Crowbar steam group for more information\nhttps://steamcommunity.com/groups/CrowbarTool"
+    ],
+    "shortcuts": [["crowbar.exe", "crowbar"]],
+    "url": "https://github.com/ZeqMacaw/Crowbar/releases/download/v0.74/Crowbar_2023-02-16_0.74.7z",
+    "version": "0.74"
+}
