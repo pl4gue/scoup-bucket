@@ -23,7 +23,9 @@
             "OpenComic"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/ollm/OpenComic"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
