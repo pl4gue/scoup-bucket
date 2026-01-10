@@ -1,16 +1,16 @@
 {
-    "version": "3.1.3",
+    "version": "3.1.6",
     "description": "Equibop is a fork of Vesktop with Equicord pre-installed",
     "homepage": "https://github.com/Equicord/Equibop",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Equicord/Equibop/releases/download/v3.1.3/Equibop-3.1.3-win.zip",
-            "hash": "58b055a4a5dac6588403751fed164eacbcb87caf0655b1561e01e9f7037e57d3"
+            "url": "https://github.com/Equicord/Equibop/releases/download/v3.1.6/Equibop-3.1.6-win.zip",
+            "hash": "e1f8791bff7d927c4a7554239dcbef6a2cd5e15349ae461bdffe3e29a24c2a58"
         },
         "arm64": {
-            "url": "https://github.com/Equicord/Equibop/releases/download/v3.1.3/Equibop-3.1.3-arm64-win.zip",
-            "hash": "c2322bd465fd74ee46b17ed86de2fe97a7da1fc1403ed1397d5032c4cae28c21"
+            "url": "https://github.com/Equicord/Equibop/releases/download/v3.1.6/Equibop-3.1.6-arm64-win.zip",
+            "hash": "4784fa7eb77a86f53cab9f0ea1e7e4a2a9f0c49ad6220e6b635c4622b4e70fb0"
         }
     },
     "bin": "Equibop.exe",
